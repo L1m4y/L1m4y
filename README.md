@@ -1,0 +1,1 @@
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=34&pause=999999&color=58A6FF&center=true&vCenter=true&width=620&height=70&lines=Where+I+keep+my+ideas" alt="typing" /></div>
